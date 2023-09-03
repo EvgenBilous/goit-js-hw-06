@@ -2,7 +2,7 @@ const categories = document.querySelectorAll("li.item");
 //console.log(categories);
 
 console.log(`Number of categories: ${categories.length}`);
-console.log(categories[1].lastElementChild);
+//console.log(categories[1].lastElementChild);
 
 categories.forEach((element) => {
   //console.log(element);
